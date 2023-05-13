@@ -18,7 +18,7 @@
 <table align="center">
   <tr> 
     <th> 
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avrodzz&show_icons=true&locale=en&layout=compact&theme=ocean_dark" alt="avrodzz" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avrodzz&langs_count=7&show_icons=true&locale=en&layout=compact&theme=ocean_dark" alt="avrodzz" />
     </th>
     <th>   
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=avrodzz&show_icons=true&locale=en&theme=ocean_dark" alt="avrodzz" />
