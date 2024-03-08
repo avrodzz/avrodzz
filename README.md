@@ -4,11 +4,11 @@
 <!-- About Me -->
 <h3 align="left">About Me</h3>
 
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying Computer Science at Pasadena City College.\
-&nbsp;&nbsp;&nbsp;:round_pushpin: &nbsp;Located in Glendale, CA.\
-&nbsp;&nbsp;&nbsp;:thinking: &nbsp;Passionate about asking the how's and why's in life.\
-&nbsp;&nbsp;&nbsp;:speech_balloon: &nbsp;Ask me about my love for action sports.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;3+ years of experience in software development.
+- Currently studying Computer Science at Pasadena City College.
+- Located in Glendale, CA.
+- Passionate about asking the how's and why's in life.
+- Ask me about my love for action sports.
+- 3+ years of experience in software development.
 
 <!-- GitHub Stats -->
 <h3 align="left">My GitHub Stats</h4>
