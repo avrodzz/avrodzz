@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Alexis :snowboarder:</h1>
+<h1 align="center">Hi, I'm Alexis</h1>
 
 <!-- About Me -->
 <h3 align="left">About Me</h3>
